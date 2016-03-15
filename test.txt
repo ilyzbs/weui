@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-cnm
-test
-change one
-=======
-test
-change one
-change two
->>>>>>> 3f080456a974f8c0d7ba091015bdbd7d13d0977e
+one
